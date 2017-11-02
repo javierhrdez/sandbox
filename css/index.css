@@ -1,0 +1,54 @@
+
+* {
+    border: 1px solid red;
+}
+
+body {
+    font-family: 'Allerta', sans-serif;
+  }
+
+
+.contenedor {
+
+  }
+
+
+.header {
+    position: relative;
+}
+  
+
+.menu {
+    font-size: 24px;
+    display: inline-block;
+    position: absolute;
+    right: 0;
+}
+
+.menu li {
+    display: inline-block;
+    margin-left: 30px;
+  }
+
+
+  .search-box {
+
+}
+  
+article {
+    display: inline-block;
+    margin-right: 50px;
+  }
+
+.about-us p{
+    display: inline-block;
+    margin-right: 50%;
+
+}
+
+
+.derecha {
+    float: right;
+    position: relative;
+    top: -127px;
+  }
